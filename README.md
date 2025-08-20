@@ -7,8 +7,7 @@
 - please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 ```
-╭─gauavsablok@gauravsablok ~/Desktop/rust/rust-serverless ‹main●›
-╰─$ ./target/debug/rust-serverless -h
+rust-serverless -h
 Usage: rust-serverless <UPLOAD_ARG> <HOSTDIR_ARG>
 
 Arguments:
@@ -20,4 +19,8 @@ Options:
   -V, --version  Print version
 ```
 
-Gaurav Sablok
+Gaurav Sablok \
+Instytut Chemii Bioorganicznej \
+Polskiej Akademii Nauk \
+ul. Noskowskiego 12/14 | 61-704, Poznań \
+Poland
